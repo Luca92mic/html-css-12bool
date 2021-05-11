@@ -1,0 +1,10 @@
+.box{
+    min-height: 150px;
+    background-color: #ffc0cb;
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+
+
